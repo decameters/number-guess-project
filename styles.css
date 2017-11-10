@@ -1,0 +1,25 @@
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+    /* height: 600px; */
+    display: block;
+    overflow: auto;
+    background-color: #ffffff;
+    border: 3px dashed #000000;
+    padding-left: 25px;
+    padding-bottom: 25px;
+    font-family: sans-serif;
+
+  }
+
+h1 {
+    font-family: sans-serif;
+    text-align: center;
+    margin-left: 5px;
+    color: #ff93a7;
+    text-decoration: underline #ff93a7;
+}
+
+button {
+    margin-left: 20px;
+}
